@@ -1,1 +1,3 @@
 # gitskills
+This is yuancheng ku de git;
+please use git clone...
